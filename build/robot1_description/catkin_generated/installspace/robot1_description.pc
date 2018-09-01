@@ -1,0 +1,8 @@
+prefix=/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/install
+
+Name: robot1_description
+Description: Description of robot1_description
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/install/lib 
+Requires: 

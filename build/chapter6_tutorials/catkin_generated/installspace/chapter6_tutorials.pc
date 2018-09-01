@@ -1,0 +1,8 @@
+prefix=/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/install
+
+Name: chapter6_tutorials
+Description: Description of chapter6_tutorials
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/install/lib 
+Requires: 

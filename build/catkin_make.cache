@@ -1,0 +1,2 @@
+chapter6_tutorials:robot1_description:robot1_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/shawn/1_catkin_files/Effective_Robotics_ws/6_chapter_tutorials/install -G Unix Makefiles
